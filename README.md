@@ -4,7 +4,8 @@
 Ще напиша подробна документация и насоки за инсталиране и използване когато не ме мързи :)
 <center>
 <img src="https://i.ytimg.com/vi/0rpgVE_nrIk/maxresdefault.jpg">
-
+</center>
 <hr>
+<center>
 <img src="https://image.opencart.com/cache/5bd71c18719f4-resize-710x380.jpg">
 </center>
